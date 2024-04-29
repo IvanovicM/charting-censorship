@@ -79,3 +79,7 @@ python -m source.report.plot_crp_results --dataset CAIDA_HYBRID --arch ${ARCH}
 # Report results in a table
 python -m source.report_grp_results --dataset CAIDA_HYBRID
 ```
+
+**Results**
+
+Results presented in the paper, extended and more comprehensive, are presented in the directory ```results```.
