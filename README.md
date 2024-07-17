@@ -1,17 +1,16 @@
 # README
 
-The code repository accompanying our preprint: [**Charting Censorship Resilience & Global Internet Reachability: A Quantitative Approach**](https://arxiv.org/abs/2403.09447).
+The code repository accompanying our article: [**Charting Censorship Resilience and Global Internet Reachability: A Quantitative Approach**](https://arxiv.org/abs/2403.09447).
 
 **Citation**
 
 ```
-@article{ivanovic2024charting,
-  title = {Charting Censorship Resilience & Global Internet Reachability: A Quantitative Approach},
+@inproceedings{ivanovic2024charting,
+  title = {Charting Censorship Resilience and Global Internet Reachability: A Quantitative Approach},
   author = {Ivanović, Marina and Wirz, François and Subirà Nieto, Jordi and Perrig, Adrian},
-  year = {2024},
-  eprint={2403.09447},
-  archivePrefix={arXiv},
-  primaryClass={cs.NI}
+  booktitle={IFIP Networking Conference},
+  publisher={IFIP},
+  year = {2024}
 }
 ```
 
